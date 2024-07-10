@@ -39,5 +39,5 @@ while game_is_on:
 
 
 
-
+#end game
 screen.exitonclick()
